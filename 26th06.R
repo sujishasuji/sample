@@ -42,3 +42,4 @@ k=kurtosis(logreturn);k
 cat("\n Excess kurtosis value for log return series is \n") 
 print(k) 
 skk=skewness(logreturn);skk
+hii
